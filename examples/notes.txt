@@ -1,0 +1,10 @@
+[center] Lecture Notes - Chapter 3
+
+Signals can be described in the time domain or in the frequency domain. Both views carry the same information, but some problems are much easier to solve in one of them.
+
+Key points to remember:
+- A periodic signal can be written as a sum of sine waves.
+- The sampling rate must be at least twice the highest frequency.
+- Noise adds random variation that filtering can reduce.
+
+Review the worked examples before the next class.

@@ -1,0 +1,30 @@
+{
+  "page": {
+    "size": "a4",
+    "unit": "mm",
+    "margin_top": 25,
+    "margin_bottom": 20,
+    "margin_left": 30,
+    "margin_right": 15,
+    "paper_color": "#fdfcf5",
+    "ruled_lines": true,
+    "margin_line": true,
+    "page_numbers": true
+  },
+  "text": {
+    "align": "left",
+    "chars_per_line": 45,
+    "line_spacing": 1.15,
+    "paragraph_spacing": 1.0
+  },
+  "pen": {
+    "style": 7,
+    "neatness": 2.0,
+    "color": "#0b3d91",
+    "thickness": 1.1
+  },
+  "output": {
+    "formats": ["pdf", "png", "svg"],
+    "seed": 3
+  }
+}

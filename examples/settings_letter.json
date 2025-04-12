@@ -1,0 +1,27 @@
+{
+  "page": {
+    "size": "letter",
+    "margin_top": 1.0,
+    "margin_bottom": 1.0,
+    "margin_left": 1.0,
+    "margin_right": 1.0
+  },
+  "text": {
+    "align": "justify",
+    "chars_per_line": 50,
+    "line_spacing": 1.0,
+    "paragraph_spacing": 0.6,
+    "indent": 0.4
+  },
+  "pen": {
+    "style": 0,
+    "neatness": 2.0,
+    "color": "#1a2a6c",
+    "thickness": 1.0
+  },
+  "output": {
+    "formats": ["pdf", "png"],
+    "dpi": 150,
+    "seed": 7
+  }
+}

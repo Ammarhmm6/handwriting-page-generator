@@ -1,0 +1,19 @@
+# environments
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# generated files
+output/
+logs/
+model/prediction/
+
+# editors
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
